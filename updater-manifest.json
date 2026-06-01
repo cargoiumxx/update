@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "testversion",
+  "pub_date": "2026-06-01T20:41:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc2V0SHBEcjJseWhKZEphWUNtVzdQOC9JYmxrMTBtU2xqdVFRNVJTY1VxRDBMVkFXL1ZZRmkwK1V1elpFdnJEanUxcTMzSmpuc01VaUhtaFBpbEgzckdFV0J0WTc4SlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzM1NzEzCWZpbGU6QXN0cmEgTGF1bmNoZXJfMS4wLjBfeDY0LXNldHVwLmV4ZQpNbm9STTkydjMyZ0FxbEh4TWczV3pESjFJYW56aHBOMmVkcVFZNzNyb0IweTlRajhCd0xlWTNOcGg3QWhVVTk5L0g0NWdYTllKSWRmUXhmVVFONHNBZz09Cg==",
+      "url": "https://github.com/cargoiumxx/update/releases/download/1.0.0/Astra_Launcher_1.0.0_x64-setup.exe"
+    }
+  }
+}
