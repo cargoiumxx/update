@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "testversion",
   "pub_date": "2026-06-01T20:41:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc2V0SHBEcjJseWhKZEphWUNtVzdQOC9JYmxrMTBtU2xqdVFRNVJTY1VxRDBMVkFXL1ZZRmkwK1V1elpFdnJEanUxcTMzSmpuc01VaUhtaFBpbEgzckdFV0J0WTc4SlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzM1NzEzCWZpbGU6QXN0cmEgTGF1bmNoZXJfMS4wLjBfeDY0LXNldHVwLmV4ZQpNbm9STTkydjMyZ0FxbEh4TWczV3pESjFJYW56aHBOMmVkcVFZNzNyb0IweTlRajhCd0xlWTNOcGg3QWhVVTk5L0g0NWdYTllKSWRmUXhmVVFONHNBZz09Cg==",
-      "url": "https://github.com/cargoiumxx/update/releases/download/1.0.0/Astra_Launcher_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRc2V0SHBEcjJseXFaTjFHOEhhL0l2aUZUbDJaV1RMNWNNenBVUHo2SlMyK1FRQTFDQUV3VGdSK2JBVHVkNmlmS0N5R3lndWgyVzdRdFF6eWl2dXVucEF1TWJHRmdtYndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzM2MzE4CWZpbGU6QXN0cmEgTGF1bmNoZXJfMS4wLjFfeDY0LXNldHVwLmV4ZQpCbHhYY09GU0J4UnFscWlaU1hkaWZ0aEhJY3Jzam43MEllNWFxc091TUJDTFZ1WnA1V2s5VVo4aldZWVlxVWpSYWhJSVJPbWVld0VuZ214bWxoaDJBUT09Cg==",
+      "url": "https://github.com/cargoiumxx/update/releases/download/1.0.1/Astra_Launcher_1.0.1_x64-setup.exe"
     }
   }
 }
